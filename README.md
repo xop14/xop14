@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xop14
+- 👀 I’m interested in full-stack web development
+- 👾 I love using JavaScript, HTML, and CSS
+- 🌱 I’m currently learning Python and Django
