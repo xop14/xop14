@@ -1,4 +1,4 @@
 - 👋 Hi, I’m David Green (@xop14)
-- 🇯🇵 I'm based in Japan and can speak Japanese
 - 👾 I love creating beautiful websites and fun web apps using HTML, CSS, and JavaScript
 - 🌱 I’m currently learning full-stack web development using Python and Django
+- 🇯🇵 I'm based in Japan and can speak Japanese
